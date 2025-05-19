@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, my name is galbeer 👋
 
-<!--
-**galbeer/galbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik ben student Informatica en communicatiewetenschappen 
 
-Here are some ideas to get you started:
+💻 Interesse in backend maar ook frontend
+🚀 Momenteel werk ik aan: verschillende projecten op school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Vaardigheden
+- Frontend: HTML, CSS, (learning right now 😄)
+- Backend: Python, C
+- Tools: VS Code
+
+⚡ Fun fact: Ik ben 17 jaar oud
