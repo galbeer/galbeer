@@ -2,7 +2,7 @@
 
 Ik ben student Informatica en communicatiewetenschappen 
 
-💻 Interesse in backend maar ook frontend
+💻 Interesse in backend, maar ook frontend
 🚀 Momenteel werk ik aan: verschillende projecten op school
 
 ## 🛠️ Vaardigheden
